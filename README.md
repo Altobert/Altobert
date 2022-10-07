@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Altobert
 - 👀 I’m interested in Programmign, algorithms and to learn and teach
-- 🌱 I’m currently learning Scheme/Racketn and Spring Boot
+- 🌱 I’m currently learning Scheme/Racket and Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
